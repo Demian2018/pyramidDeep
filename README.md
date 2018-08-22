@@ -1,7 +1,7 @@
 # pyramidDeep
 #Demian Escobar
 
-#Create virtual environment
+#Create virtual environment <br>
 $ easy_install install virtualenvwrappe
 $ export WORKON_HOME=~/Envs
 $ mkdir -p $WORKON_HOME
