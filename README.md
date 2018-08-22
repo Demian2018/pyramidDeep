@@ -3,7 +3,19 @@
 
 Linux - Debian streetch in here with python3 or greater and mongodb. <br>
 Framework Pyramid with template engine called Jinja2 and pymongo for mongodb <br>
-Mongodb in this case has no password<br>
+Mongodb in this case has no password<br><br>
+
+#### MONGODB ##################################################################################<br><br>
+
+$ mongo<br>
+>use video1<br>
+>db.formVideos1.insert({{"video" :'http://www.youtube.com/video1',"theme" :Sports,"yes"   :0,"no"    :0,"fScore":0}})<br>
+>exit()<br>
+
+Now you have a database called video1 that was created when 'use' whas called, and a collection that was created at the insert.<br><br><br>
+
+
+#### Linux env #############################################################################<br><br>
 
 <br>
 # apt-get install python3<br>
