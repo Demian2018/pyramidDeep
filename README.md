@@ -12,7 +12,7 @@ $ mongo<br>
 >db.formVideos1.insert({{"video" :'http://www.youtube.com/video1',"theme" :Sports,"yes"   :0,"no"    :0,"fScore":0}})<br>
 >exit()<br>
 
-Now you have a database called video1 that was created when 'use' whas called, and a collection that was created at the insert.<br><br><br>
+Now you have a database called video1 that was created when 'use' was called, and a collection that was created at the insert.<br><br><br>
 
 
 #### Linux env #############################################################################<br><br>
