@@ -3,11 +3,11 @@
 
 Linux - Debian streetch in here with python3 or greater and mongodb. <br>
 Framework Pyramid with template engine called Jinja2 and pymongo for mongodb <br>
-Mongodb in this case has no password<br><br>
+Mongodb in this case has no password <br><br>
 
+#apt-get install python3 <br>
+#apt-get install mongodb <br>
 
-# apt-get install python3<br>
-# apt-get install mongodb<br>
 
 $ mongo<br>
 >use video1<br>
